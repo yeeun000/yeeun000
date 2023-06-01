@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![dldpdms0000's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldpdms0000&show_icons=true&theme=tokyonight)
+![yeeun0000's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldpdms0000&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldpdms0000)](https://solved.ac/백준dldpdms0000/)
 
